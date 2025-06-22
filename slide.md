@@ -42,7 +42,7 @@ paginate: true
 
 ---
 
-# COSCUP 2025
+# GDG TW @ COSCUP 2025
 
 ![width:80%](./image/coscup-2025.png)
 
